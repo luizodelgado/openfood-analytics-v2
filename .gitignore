@@ -1,0 +1,21 @@
+# Vitrual environment
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# dbt
+dbt_modules/
+target/
+dbt_packages/
+
+# Data
+data/
+
+# IDEs
+.vscode/
+.idea/
+
+# Others
+.env
